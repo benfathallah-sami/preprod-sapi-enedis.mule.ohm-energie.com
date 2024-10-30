@@ -1,0 +1,14 @@
+application:
+ name: "System API Enedis"
+api:
+ name: ""
+ uniq-id: ""
+ shard: ""
+ 
+ 
+internal-api:
+ api:
+    protocol: "https"
+    host: "api-paiement.ohm-energie.com"
+    port: "8081"
+    path: "/api/enedis/check/point"

@@ -1,0 +1,29 @@
+{
+  "configs": [
+    "sapi-enedis-appmuleohm-energiecom.xml"
+  ],
+  "secureProperties": [],
+  "supportedJavaVersions": [],
+  "redeploymentEnabled": true,
+  "name": "9432bb43-ad32-4930-9a9d-6881e800a97f:preprod-sapi-enedis.mule.ohm-energie.com:1.1.0",
+  "minMuleVersion": "4.7.0",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedPackages": [],
+      "exportedResources": [
+        "application-types.xml",
+        "local.yaml",
+        "log4j2.xml",
+        "pprd.yaml",
+        "prd.yaml",
+        "sapi-enedis-appmuleohm-energiecom.xml"
+      ]
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}

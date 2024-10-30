@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>9432bb43-ad32-4930-9a9d-6881e800a97f</groupId>
+  <artifactId>sapi-enedis-app.mule.ohm-energiecom</artifactId>
+  <version>1.0.1</version>
+  <name>sapi-enedis-app.mule.ohm-energie.com</name>
+  <properties>
+    <classifier>raml</classifier>
+    <main>sapi-enedis-appmuleohm-energiecom.raml</main>
+    <status>published</status>
+    <originalFormatVersion>1.0</originalFormatVersion>
+    <apiVersion>1.0</apiVersion>
+    <projectId>83342965-aadb-492d-b7e3-385bd6321deb</projectId>
+    <branchId>master</branchId>
+    <commitId>37a97d85127401098e0555fc036fa4b7a832fd60</commitId>
+    <keywords/>
+    <type>rest-api</type>
+    <mainFile>sapi-enedis-appmuleohm-energiecom.raml</mainFile>
+  </properties>
+  <repositories>
+    <repository>
+      <id>anypoint-exchange</id>
+      <url>https://maven.eu1.anypoint.mulesoft.com/api/v3/maven</url>
+    </repository>
+  </repositories>
+</project>

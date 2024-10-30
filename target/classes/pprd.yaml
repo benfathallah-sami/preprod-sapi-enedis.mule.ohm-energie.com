@@ -1,0 +1,14 @@
+application:
+ name: "System API Enedis"
+api:
+ name: "preprod-sapi-enedis-mule-ohm-energie-com"
+ uniq-id: "e2dw52"
+ shard: "2ky31l-2"
+ 
+ 
+internal-api:
+ api:
+    protocol: "https"
+    host: "api-paiement-preprod.ohm-energie.com"
+    port: "8081"
+    path: "/api/enedis/check/point"
